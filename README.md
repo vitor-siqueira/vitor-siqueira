@@ -1,8 +1,8 @@
-### Vitor Siqueira - [Data Scientist] 👋
+### Vitor Siqueira - [Data Engineer] 👋
 
-## I'm a student of data science and who loves to be in constant learning!
+## I'm a student of data engineering and who loves to be in constant learning!
 
-- 💻 I’m currently studying as a Data Science
+- 💻 I’m currently studying as a Data Engineering at SoulCode Academy
 - 📈 I’m constantly learning and Improving my skills 🤣
 
 ### Connect with me:
